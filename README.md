@@ -48,7 +48,15 @@ class ChandanGiri:
             "Open-source contributions across 5 organizations"
         ]
 ```
+---
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/RishiGoswami-code/RishiGoswami-code/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/RishiGoswami-code/RishiGoswami-code/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+</div>
+
+---
 ---
 
 ###  Languages
@@ -103,22 +111,6 @@ class ChandanGiri:
 </div>
 
 ---
-
-
-
-<div align="center">
-
-| 🥇 Achievement | Year |
-|---|---|
-| 🏆 **Smart India Hackathon 2025 — National Finalist** (Team Leader, ML Lead) | 2025 |
-| 🎓 **Sitare Foundation Scholarship** — 90% B.Tech CS Tuition Covered | 2024–Present |
-| 🧮 **Top Neurons Scholarship** — Nationally competitive, top performers across India | 2021–2023 |
-
-</div>
-
----
-
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishiGoswami-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
@@ -139,14 +131,19 @@ class ChandanGiri:
 </div>
 
 ---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RishiGoswami-code/RishiGoswami-code/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/RishiGoswami-code/RishiGoswami-code/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+| 🥇 Achievement | Year |
+|---|---|
+| 🏆 **Smart India Hackathon 2025 — National Finalist** (Team Leader, ML Lead) | 2025 |
+| 🎓 **Sitare Foundation Scholarship** — 90% B.Tech CS Tuition Covered | 2024–Present |
+| 🧮 **Top Neurons Scholarship** — Nationally competitive, top performers across India | 2021–2023 |
 
 </div>
 
 ---
+
 
 <div align="center">
 
